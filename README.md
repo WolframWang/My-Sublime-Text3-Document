@@ -1,2 +1,2 @@
 ### My-Sublime-Text3-Document
-Sublime simple course
+Sublime Text3 simple course
